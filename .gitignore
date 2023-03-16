@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-.idea/workspace.xml
+*.idea
 
 ### Eclipse ###
 .apt_generated
@@ -39,3 +39,4 @@ build/
 .DS_Store
 
 /files
+/.idea/
